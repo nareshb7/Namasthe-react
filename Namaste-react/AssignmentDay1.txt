@@ -1,0 +1,40 @@
+1. What is emmet?
+
+-> Emmet is a free add on for your text editor that allows you to type shortcuts
+-> that are then expanded into full piece of code
+
+2. What is difference between library and framework?
+
+-> Both frameworks  and libraries are code written by someone developer, that is used to help solve common problems
+-> Example: 
+-> Library is like going to IKEA to buy required furniture for home, it means you already have home, u just need to decorate it
+-> but whereas framework is building a new house, u have blue print in ur hand, contractor in hand, its new one
+
+3. What is CDN , why we use it??
+
+-> CDN is the content delivery ntwork, it has the total content of that server has, 
+-> we use CDN fro faster the browsing speed, reduce the loading speed and to reduce delay in the communication 
+    created by the network's design
+
+4. What is CORS ?
+
+->  CORS is  Cross-Origin-Resource-Sharing , by the name itself it is used to share the resource btw the servers
+-> Web pages often make requests to other servers to load the resources where CORS comes in
+-> CORS allows servers to who can access the data from the server
+
+5. Diff btw React and ReactDOM ??
+
+-> React is JS library for building user interfaces
+-> ReactDOM is JS library that allows us to interact with the ReactDOM
+-> As the name itself ReactDOM is the glue btw React and DOM
+
+6. Diff btw Async and defer ?
+
+-> Async allows your script to run as soon as it's loaded, without blocking other elements on the other pages
+-> Defer means ur script will execute only when the page finished it's loading
+
+7. Diff btw react.production.js and react.development.js ??
+
+-> Production version will be optimised in few ways , smaller in size by minimising variable names , whitespaces e.t.c.
+-> wheras Development version is remain readable 
+-> but the functionality of two files is smaller

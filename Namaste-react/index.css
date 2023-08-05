@@ -1,0 +1,6 @@
+/* 
+    We are accessing the id which is created using createElement in App.js
+*/
+#children {
+    color: #f00
+}
