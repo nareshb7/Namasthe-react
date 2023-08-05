@@ -1,0 +1,14 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namsthe react from scratch",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Naresh Baleboina",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
